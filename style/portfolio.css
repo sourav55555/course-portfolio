@@ -37,8 +37,9 @@
 
 .header{
  background: #FFF8F3;
- background-image: url("../images/header_bg.png");
- background-position: bottom right;
+ background-image: url("../images/header_bg.png"),url("../images/developer.png");
+ background-position: bottom right,35px 70px;
+ background-size: auto, 140px 930px;
  background-repeat: no-repeat;
  height: 100vh;
  position: relative;
